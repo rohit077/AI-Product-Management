@@ -40,3 +40,5 @@ In this project, we had to develop a business proposal for an AI product. There 
 4. Model
 5. Minimum Viable Product (MVP)
 6. Post-MVP-Deployment
+
+**Verify Nanodegree Certificate - https://confirm.udacity.com/CKALEJHF**
